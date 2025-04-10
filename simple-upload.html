@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple File Upload</title>
+</head>
+<body>
+    <h1>Simple File Upload</h1>
+    
+    <form id="upload-form" action="upload-handler.php" method="POST" enctype="multipart/form-data">
+        <p>
+            <label for="images">Select Images:</label>
+            <input type="file" name="images[]" id="images" multiple accept="image/jpeg,image/png,image/gif">
+        </p>
+        <p>
+            <button type="submit">Upload</button>
+        </p>
+    </form>
+    
+    <div id="result"></div>
+    
+    <script>
+        document.getElementById('upload-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            const resultDiv = document.getElementById('result');
+            
+            resultDiv.innerHTML = 'Uploading...';
+            
+            fetch('upload-handler.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log('Response:', data);
+                
+                let resultHTML = '<h2>' + (data.success ? 'Success' : 'Error') + '</h2>';
+                resultHTML += '<p>' + data.message + '</p>';
+                
+                if (data.files && data.files.length > 0) {
+                    resultHTML += '<h3>Uploaded Files:</h3><ul>';
+                    data.files.forEach(file => {
+                        resultHTML += '<li>' + file.original_name + ' → ' + file.saved_name + '</li>';
+                    });
+                    resultHTML += '</ul>';
+                }
+                
+                if (data.errors && data.errors.length > 0) {
+                    resultHTML += '<h3>Errors:</h3><ul>';
+                    data.errors.forEach(error => {
+                        resultHTML += '<li>' + error + '</li>';
+                    });
+                    resultHTML += '</ul>';
+                }
+                
+                resultDiv.innerHTML = resultHTML;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                resultDiv.innerHTML = '<h2>Error</h2><p>' + error.message + '</p>';
+            });
+        });
+    </script>
+</body>
+</html> 

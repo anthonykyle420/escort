@@ -1,0 +1,621 @@
+/* मुख्य स्टाइल्स */
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --light-color: #f8f9fa;
+    --dark-color: #343a40;
+    --success-color: #28a745;
+    --danger-color: #dc3545;
+    --warning-color: #ffc107;
+    --info-color: #17a2b8;
+    --body-bg: #f8f9fa;
+    --body-color: #333;
+    --card-bg: #fff;
+    --card-border: rgba(0,0,0,0.125);
+    --input-bg: #fff;
+    --input-border: #ced4da;
+    --header-bg: #fff;
+    --footer-bg: #343a40;
+    --footer-color: #fff;
+}
+
+/* हेडर और नेविगेशन के लिए नए नियम */
+header, .navbar {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    z-index: 1000 !important;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: var(--body-color);
+    background-color: var(--body-bg);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* डार्क मोड स्टाइल्स */
+body.dark-mode {
+    --body-bg: #121212;
+    --body-color: #f8f9fa;
+    --card-bg: #1e1e1e;
+    --card-border: rgba(255,255,255,0.125);
+    --input-bg: #2c2c2c;
+    --input-border: #444;
+    --header-bg: #1e1e1e;
+    --footer-bg: #1e1e1e;
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+/* हेडर स्टाइल्स */
+.site-header {
+    background-color: var(--header-bg);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 15px 0;
+    transition: background-color 0.3s;
+}
+
+.logo img {
+    max-height: 60px;
+}
+
+.main-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.main-menu li {
+    margin-left: 20px;
+}
+
+.main-menu a {
+    color: var(--body-color);
+}
+
+.main-menu a:hover {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.mobile-menu {
+    display: none;
+    background-color: #f8f9fa;
+    padding: 15px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.mobile-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.mobile-menu li {
+    margin-bottom: 10px;
+}
+
+.mobile-menu a {
+    color: #333;
+    font-weight: 500;
+    display: block;
+    padding: 5px 0;
+}
+
+.mobile-menu-toggle {
+    cursor: pointer;
+    font-size: 24px;
+}
+
+/* सर्च सेक्शन */
+.search-section {
+    background-color: var(--card-bg);
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: background-color 0.3s;
+}
+
+.form-control, .form-select {
+    background-color: var(--input-bg);
+    border-color: var(--input-border);
+    color: var(--body-color);
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.form-control:focus, .form-select:focus {
+    background-color: var(--input-bg);
+    color: var(--body-color);
+}
+
+/* लोकेशन ऑटोकम्पलीट */
+.location-search-container {
+    position: relative;
+}
+
+.location-results {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background-color: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 0 0 5px 5px;
+    max-height: 200px;
+    overflow-y: auto;
+    display: none;
+}
+
+.location-item {
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.location-item:hover {
+    background-color: rgba(0,123,255,0.1);
+}
+
+/* डार्क मोड टॉगल */
+.dark-mode-toggle {
+    cursor: pointer;
+    margin-left: 15px;
+    font-size: 1.2rem;
+    color: var(--body-color);
+}
+
+/* लिस्टिंग कार्ड्स */
+.listing-card {
+    background-color: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+    height: 100%;
+}
+
+.listing-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.card-img {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+/* वेरिफाइड बैज के लिए स्टाइल */
+.verified-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 10;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #007bff;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.featured-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: var(--warning-color);
+    color: var(--dark-color);
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-size: 0.8rem;
+}
+
+.card-body {
+    padding: 12px;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.card-title {
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #ffffff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+.card-meta {
+    display: flex;
+    justify-content: space-between;
+    color: var(--secondary-color);
+    font-size: 0.9rem;
+}
+
+.listing-card .card-location {
+    color: #6c757d;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.listing-card .card-price {
+    font-weight: 600;
+    color: #28a745;
+}
+
+/* स्लाइडर स्टाइल्स */
+.listings-slider {
+    margin-bottom: 30px;
+}
+
+.listings-slider .slider-title {
+    margin-bottom: 20px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+}
+
+/* फिल्टर स्टाइल्स */
+.filter-section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.filter-toggle {
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.filter-content {
+    display: none;
+}
+
+/* प्रोफाइल व्यू स्टाइल्स */
+.profile-gallery {
+    margin-bottom: 30px;
+}
+
+.profile-gallery img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.profile-info {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.profile-title {
+    margin-bottom: 15px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+}
+
+.profile-description {
+    margin-bottom: 20px;
+}
+
+.profile-details {
+    margin-bottom: 20px;
+}
+
+.profile-details .detail-item {
+    margin-bottom: 10px;
+}
+
+.profile-social {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.profile-social a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: #f8f9fa;
+    border-radius: 50%;
+    color: #333;
+    transition: all 0.3s ease;
+}
+
+.profile-social a:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* डैशबोर्ड स्टाइल्स */
+.dashboard-card {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.dashboard-menu {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.dashboard-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.dashboard-menu li {
+    margin-bottom: 10px;
+}
+
+.dashboard-menu a {
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    color: #333;
+}
+
+.dashboard-menu a:hover, .dashboard-menu a.active {
+    background-color: #f8f9fa;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.listing-item {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.listing-item .listing-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-right: 15px;
+}
+
+.listing-item .listing-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.listing-item .listing-info {
+    flex-grow: 1;
+}
+
+.listing-item .listing-title {
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.listing-item .listing-status {
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 3px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.listing-item .status-active {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.listing-item .status-pending {
+    background-color: #ffc107;
+    color: #333;
+}
+
+.listing-item .listing-actions {
+    display: flex;
+    gap: 10px;
+}
+
+/* फॉर्म स्टाइल्स */
+.form-section {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+.form-title {
+    margin-bottom: 20px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+}
+
+/* फुटर स्टाइल्स */
+.site-footer {
+    background-color: var(--footer-bg);
+    color: var(--footer-color);
+    padding: 40px 0 20px;
+    transition: background-color 0.3s;
+}
+
+.site-footer h3 {
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+
+.site-footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.site-footer li {
+    margin-bottom: 10px;
+}
+
+.site-footer a {
+    color: #adb5bd;
+}
+
+.site-footer a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* रेस्पॉन्सिव स्टाइल्स */
+@media (max-width: 767px) {
+    .listing-card .card-img {
+        height: 150px;
+    }
+    
+    .listings-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+}
+
+@media (min-width: 768px) {
+    .listings-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+}
+
+@media (min-width: 992px) {
+    .listings-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/* स्लाइडर स्टाइल्स */
+.swiper {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* बाकी स्टाइल्स यथावत रहेगा */
+.card-badges {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.card-badges .badge {
+    font-size: 0.7rem;
+    padding: 0.25rem 0.5rem;
+    opacity: 0.9;
+}
+
+.listing-card {
+    height: 100%;
+    transition: transform 0.3s;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.listing-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.listing-card a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.section-title {
+    position: relative;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    color: #333;
+}
+
+.section-title:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 50px;
+    height: 3px;
+    background-color: #007bff;
+}
+
+@media (max-width: 767px) {
+    .swiper-button-next, .swiper-button-prev {
+        display: none;
+    }
+    
+    .card-img-top {
+        height: 180px;
+    }
+    
+    .card-title {
+        font-size: 14px;
+    }
+    
+    .card-badges .badge {
+        font-size: 0.6rem;
+        padding: 0.2rem 0.4rem;
+    }
+} 

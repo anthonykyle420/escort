@@ -1,0 +1,3415 @@
+[2025-03-10 04:37:17] Upload handler started
+[2025-03-10 04:37:17] POST data: Array
+(
+)
+
+[2025-03-10 04:37:17] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070036_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070036_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\phpD040.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 12414
+                )
+
+        )
+
+)
+
+[2025-03-10 04:37:17] Processing file: gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070036_listing.jpg, size: 12414, error: 0
+[2025-03-10 04:37:17] Moving file to: uploads/listings/67ce6c7dc4289_gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070036_listing.jpg
+[2025-03-10 04:37:17] File moved successfully
+[2025-03-10 04:37:17] Main image index: 0
+[2025-03-10 04:37:17] Response: {"success":true,"files":[{"original_name":"gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070036_listing.jpg","saved_name":"67ce6c7dc4289_gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070036_listing.jpg","path":"uploads\/listings\/67ce6c7dc4289_gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070036_listing.jpg"}],"errors":[],"form_data":[],"message":"Files uploaded successfully"}
+[2025-03-10 12:49:17] Upload handler started
+[2025-03-10 12:49:17] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:49:17] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3F79.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 18334
+                )
+
+        )
+
+)
+
+[2025-03-10 12:49:17] Processing file: simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg, size: 18334, error: 0
+[2025-03-10 12:49:17] Moving file to: uploads/listings/67cedfcd79d1d_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+[2025-03-10 12:49:17] File moved successfully
+[2025-03-10 12:49:17] Main image index: 0
+[2025-03-10 12:49:17] Response: {"success":true,"files":[{"original_name":"simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","saved_name":"67cedfcd79d1d_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","path":"uploads\/listings\/67cedfcd79d1d_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:49:17] Upload handler started
+[2025-03-10 12:49:17] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:49:17] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3F89.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 18334
+                )
+
+        )
+
+)
+
+[2025-03-10 12:49:17] Processing file: simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg, size: 18334, error: 0
+[2025-03-10 12:49:17] Moving file to: uploads/listings/67cedfcd7cbc1_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+[2025-03-10 12:49:17] Upload handler started
+[2025-03-10 12:49:17] File moved successfully
+[2025-03-10 12:49:17] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:49:17] Main image index: 0
+[2025-03-10 12:49:17] Response: {"success":true,"files":[{"original_name":"simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","saved_name":"67cedfcd7cbc1_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","path":"uploads\/listings\/67cedfcd7cbc1_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:49:17] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3F8A.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 18334
+                )
+
+        )
+
+)
+
+[2025-03-10 12:49:17] Processing file: simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg, size: 18334, error: 0
+[2025-03-10 12:49:17] Moving file to: uploads/listings/67cedfcd7d50b_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+[2025-03-10 12:49:17] File moved successfully
+[2025-03-10 12:49:17] Main image index: 0
+[2025-03-10 12:49:17] Response: {"success":true,"files":[{"original_name":"simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","saved_name":"67cedfcd7d50b_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","path":"uploads\/listings\/67cedfcd7d50b_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:49:17] Upload handler started
+[2025-03-10 12:49:17] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:49:17] Upload handler started
+[2025-03-10 12:49:17] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3F9B.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 18334
+                )
+
+        )
+
+)
+
+[2025-03-10 12:49:17] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:49:17] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3F9C.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 18334
+                )
+
+        )
+
+)
+
+[2025-03-10 12:49:17] Processing file: simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg, size: 18334, error: 0
+[2025-03-10 12:49:17] Moving file to: uploads/listings/67cedfcd80652_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+[2025-03-10 12:49:17] Processing file: simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg, size: 18334, error: 0
+[2025-03-10 12:49:17] Moving file to: uploads/listings/67cedfcd80837_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+[2025-03-10 12:49:17] File moved successfully
+[2025-03-10 12:49:17] Main image index: 0
+[2025-03-10 12:49:17] File moved successfully
+[2025-03-10 12:49:17] Response: {"success":true,"files":[{"original_name":"simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","saved_name":"67cedfcd80652_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","path":"uploads\/listings\/67cedfcd80652_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:49:17] Main image index: 0
+[2025-03-10 12:49:17] Response: {"success":true,"files":[{"original_name":"simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","saved_name":"67cedfcd80837_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","path":"uploads\/listings\/67cedfcd80837_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:49:17] Upload handler started
+[2025-03-10 12:49:17] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:49:17] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3FBC.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 18334
+                )
+
+        )
+
+)
+
+[2025-03-10 12:49:17] Processing file: simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg, size: 18334, error: 0
+[2025-03-10 12:49:17] Moving file to: uploads/listings/67cedfcd8865c_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+[2025-03-10 12:49:17] File moved successfully
+[2025-03-10 12:49:17] Main image index: 0
+[2025-03-10 12:49:17] Response: {"success":true,"files":[{"original_name":"simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","saved_name":"67cedfcd8865c_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","path":"uploads\/listings\/67cedfcd8865c_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:50:52] Upload handler started
+[2025-03-10 12:50:52] POST data: Array
+(
+    [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:50:52] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\phpB48B.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13645
+                )
+
+        )
+
+)
+
+[2025-03-10 12:50:52] Processing file: hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg, size: 13645, error: 0
+[2025-03-10 12:50:52] Moving file to: uploads/listings/67cee02cefef7_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+[2025-03-10 12:50:52] POST data: Array
+(
+    [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:50:52] File moved successfully
+[2025-03-10 12:50:52] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\phpB48C.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13645
+                )
+
+        )
+
+)
+
+[2025-03-10 12:50:52] Main image index: 0
+[2025-03-10 12:50:52] Response: {"success":true,"files":[{"original_name":"hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","saved_name":"67cee02cefef7_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","path":"uploads\/listings\/67cee02cefef7_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:50:52] Processing file: hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg, size: 13645, error: 0
+[2025-03-10 12:50:52] Moving file to: uploads/listings/67cee02cf3468_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+[2025-03-10 12:50:52] File moved successfully
+[2025-03-10 12:50:52] Main image index: 0
+[2025-03-10 12:50:53] Response: {"success":true,"files":[{"original_name":"hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","saved_name":"67cee02cf3468_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","path":"uploads\/listings\/67cee02cf3468_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:50:53] Upload handler started
+[2025-03-10 12:50:53] POST data: Array
+(
+    [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:50:53] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\phpB49C.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13645
+                )
+
+        )
+
+)
+
+[2025-03-10 12:50:53] Processing file: hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg, size: 13645, error: 0
+[2025-03-10 12:50:53] Moving file to: uploads/listings/67cee02d01c31_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+[2025-03-10 12:50:53] POST data: Array
+(
+    [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:50:53] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\phpB49D.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13645
+                )
+
+        )
+
+)
+
+[2025-03-10 12:50:53] Processing file: hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg, size: 13645, error: 0
+[2025-03-10 12:50:53] Moving file to: uploads/listings/67cee02d02cc3_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+[2025-03-10 12:50:53] File moved successfully
+[2025-03-10 12:50:53] Main image index: 0
+[2025-03-10 12:50:53] Response: {"success":true,"files":[{"original_name":"hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","saved_name":"67cee02d01c31_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","path":"uploads\/listings\/67cee02d01c31_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:50:53] File moved successfully
+[2025-03-10 12:50:53] Upload handler started
+[2025-03-10 12:50:53] Main image index: 0
+   [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:50:53] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\phpB4AE.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13645
+                )
+
+        )
+
+)
+
+[2025-03-10 12:50:53] Response: {"success":true,"files":[{"original_name":"hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","saved_name":"67cee02d02cc3_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","path":"uploads\/listings\/67cee02d02cc3_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:50:53] Processing file: hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg, size: 13645, error: 0
+[2025-03-10 12:50:53] Moving file to: uploads/listings/67cee02d05a4b_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+[2025-03-10 12:50:53] File moved successfully
+[2025-03-10 12:50:53] Main image index: 0
+[2025-03-10 12:50:53] Response: {"success":true,"files":[{"original_name":"hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","saved_name":"67cee02d05a4b_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","path":"uploads\/listings\/67cee02d05a4b_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:50:53] Upload handler started
+[2025-03-10 12:50:53] POST data: Array
+(
+    [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:50:53] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\phpB4BF.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13645
+                )
+
+        )
+
+)
+
+[2025-03-10 12:50:53] Processing file: hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg, size: 13645, error: 0
+[2025-03-10 12:50:53] Moving file to: uploads/listings/67cee02d08c76_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+[2025-03-10 12:50:53] File moved successfully
+[2025-03-10 12:50:53] Main image index: 0
+[2025-03-10 12:50:53] Response: {"success":true,"files":[{"original_name":"hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","saved_name":"67cee02d08c76_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","path":"uploads\/listings\/67cee02d08c76_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:51:09] Upload handler started
+[2025-03-10 12:51:09] POST data: Array
+(
+    [main_image] => 0
+)
+
+[2025-03-10 12:51:09] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\phpF340.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13645
+                )
+
+        )
+
+)
+
+[2025-03-10 12:51:09] Processing file: hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg, size: 13645, error: 0
+[2025-03-10 12:51:09] Moving file to: uploads/listings/67cee03d06c61_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg
+[2025-03-10 12:51:09] File moved successfully
+[2025-03-10 12:51:09] Main image index: 0
+[2025-03-10 12:51:09] Response: {"success":true,"files":[{"original_name":"hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","saved_name":"67cee03d06c61_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg","path":"uploads\/listings\/67cee03d06c61_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452950_listing.jpg"}],"errors":[],"form_data":{"main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:51:26] Upload handler started
+[2025-03-10 12:51:26] POST data: Array
+(
+    [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:51:26] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3877.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13028
+                )
+
+        )
+
+)
+
+[2025-03-10 12:51:26] Processing file: shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg, size: 13028, error: 0
+[2025-03-10 12:51:26] Moving file to: uploads/listings/67cee04eba9b5_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+[2025-03-10 12:51:26] File moved successfully
+[2025-03-10 12:51:26] Main image index: 0
+[2025-03-10 12:51:26] Response: {"success":true,"files":[{"original_name":"shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","saved_name":"67cee04eba9b5_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","path":"uploads\/listings\/67cee04eba9b5_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:51:26] Upload handler started
+[2025-03-10 12:51:26] POST data: Array
+(
+    [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:51:26] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3888.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13028
+                )
+
+        )
+
+)
+
+[2025-03-10 12:51:26] Processing file: shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg, size: 13028, error: 0
+[2025-03-10 12:51:26] Moving file to: uploads/listings/67cee04ebd1c8_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+[2025-03-10 12:51:26] File moved successfully
+[2025-03-10 12:51:26] Main image index: 0
+[2025-03-10 12:51:26] Response: {"success":true,"files":[{"original_name":"shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","saved_name":"67cee04ebd1c8_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","path":"uploads\/listings\/67cee04ebd1c8_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:51:26] Upload handler started
+[2025-03-10 12:51:26] POST data: Array
+(
+    [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:51:26] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php389A.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13028
+                )
+
+        )
+
+)
+
+[2025-03-10 12:51:26] Processing file: shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg, size: 13028, error: 0
+[2025-03-10 12:51:26] Moving file to: uploads/listings/67cee04ec151d_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+[2025-03-10 12:51:26] File moved successfully
+[2025-03-10 12:51:26] Main image index: 0
+[2025-03-10 12:51:26] Response: {"success":true,"files":[{"original_name":"shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","saved_name":"67cee04ec151d_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","path":"uploads\/listings\/67cee04ec151d_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:51:26] Upload handler started
+[2025-03-10 12:51:26] Upload handler started
+[2025-03-10 12:51:26] POST data: Array
+(
+    [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:51:26] POST data: Array
+(
+    [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:51:26] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3899.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13028
+                )
+
+        )
+
+)
+
+[2025-03-10 12:51:26] Processing file: shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg, size: 13028, error: 0
+[2025-03-10 12:51:26] Moving file to: uploads/listings/67cee04ec3bc7_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+[2025-03-10 12:51:26] Upload handler started
+[2025-03-10 12:51:26] POST data: Array
+(
+    [title] => thdhdfh 
+    [description] => rdyer erherht
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 12:51:26] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php389C.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13028
+                )
+
+        )
+
+)
+
+[2025-03-10 12:51:26] File moved successfully
+[2025-03-10 12:51:26] Main image index: 0
+[2025-03-10 12:51:26] Processing file: shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg, size: 13028, error: 0
+        [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php389B.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13028
+                )
+
+        )
+
+)
+
+[2025-03-10 12:51:26] Response: {"success":true,"files":[{"original_name":"shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","saved_name":"67cee04ec3bc7_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","path":"uploads\/listings\/67cee04ec3bc7_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:51:26] Moving file to: uploads/listings/67cee04ec46db_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+[2025-03-10 12:51:26] Processing file: shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg, size: 13028, error: 0
+[2025-03-10 12:51:26] Moving file to: uploads/listings/67cee04ec4b18_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg
+[2025-03-10 12:51:26] File moved successfully
+[2025-03-10 12:51:26] Main image index: 0
+[2025-03-10 12:51:26] Response: {"success":true,"files":[{"original_name":"shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","saved_name":"67cee04ec46db_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","path":"uploads\/listings\/67cee04ec46db_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 12:51:26] Main image index: 0
+[2025-03-10 12:51:26] Response: {"success":true,"files":[{"original_name":"shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","saved_name":"67cee04ec4b18_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg","path":"uploads\/listings\/67cee04ec4b18_shivam-singh-25-indian-gay-escort-in-jaipur-8502708_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"thdhdfh ","description":"rdyer erherht","category_id":"4","location_id":"","age":"34","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 13:06:50] Upload handler started
+[2025-03-10 13:06:50] POST data: Array
+(
+    [title] => fdgdfgdfghdf erhffg
+    [description] => tfdhgf gfnfdh fghdrth gfh 
+    [category_id] => 4
+    [location_id] => 
+    [age] => 46
+    [gender] => male
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 13:06:50] POST data: Array
+(
+    [title] => fdgdfgdfghdf erhffg
+    [description] => tfdhgf gfnfdh fghdrth gfh 
+    [category_id] => 4
+    [location_id] => 
+    [age] => 46
+    [gender] => male
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 13:06:50] Upload handler started
+[2025-03-10 13:06:50] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php51AF.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 21331
+                )
+
+        )
+
+)
+
+[2025-03-10 13:06:50] POST data: Array
+(
+    [title] => fdgdfgdfghdf erhffg
+    [description] => tfdhgf gfnfdh fghdrth gfh 
+    [category_id] => 4
+    [location_id] => 
+    [age] => 46
+    [gender] => male
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 13:06:50] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php51AE.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 21331
+                )
+
+        )
+
+)
+
+[2025-03-10 13:06:50] Processing file: rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg, size: 21331, error: 0
+[2025-03-10 13:06:50] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php51C0.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 21331
+                )
+
+        )
+
+)
+
+[2025-03-10 13:06:50] Moving file to: uploads/listings/67cee3eab0f89_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+[2025-03-10 13:06:50] Processing file: rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg, size: 21331, error: 0
+[2025-03-10 13:06:50] Upload handler started
+/listings/67cee3eab1e3e_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+[2025-03-10 13:06:50] Upload handler started
+[2025-03-10 13:06:50] POST data: Array
+(
+    [title] => fdgdfgdfghdf erhffg
+    [description] => tfdhgf gfnfdh fghdrth gfh 
+    [category_id] => 4
+    [location_id] => 
+    [age] => 46
+    [gender] => male
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 13:06:50] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php51C2.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 21331
+                )
+
+        )
+
+)
+
+[2025-03-10 13:06:50] POST data: Array
+(
+    [title] => fdgdfgdfghdf erhffg
+    [description] => tfdhgf gfnfdh fghdrth gfh 
+    [category_id] => 4
+    [location_id] => 
+    [age] => 46
+    [gender] => male
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 13:06:50] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php51C1.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 21331
+                )
+
+        )
+
+)
+
+[2025-03-10 13:06:50] Processing file: rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg, size: 21331, error: 0
+[2025-03-10 13:06:50] Processing file: rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg, size: 21331, error: 0
+[2025-03-10 13:06:50] File moved successfully
+[2025-03-10 13:06:50] Moving file to: uploads/listings/67cee3eab39c1_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+[2025-03-10 13:06:50] Moving file to: uploads/listings/67cee3eab3ab6_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+[2025-03-10 13:06:50] Main image index: 0
+lly
+[2025-03-10 13:06:50] Main image index: 0
+[2025-03-10 13:06:50] Upload handler started
+ue,"files":[{"original_name":"rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","saved_name":"67cee3eab0f89_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","path":"uploads\/listings\/67cee3eab0f89_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg"}],"errors":[],"form_data":{"title":"fdgdfgdfghdf erhffg","description":"tfdhgf gfnfdh fghdrth gfh ","category_id":"4","location_id":"","age":"46","gender":"male","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 13:06:50] Response: {"success":true,"files":[{"original_name":"rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","saved_name":"67cee3eab1e3e_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","path":"uploads\/listings\/67cee3eab1e3e_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg"}],"errors":[],"form_data":{"title":"fdgdfgdfghdf erhffg","description":"tfdhgf gfnfdh fghdrth gfh ","category_id":"4","location_id":"","age":"46","gender":"male","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 13:06:50] POST data: Array
+(
+    [title] => fdgdfgdfghdf erhffg
+    [description] => tfdhgf gfnfdh fghdrth gfh 
+    [category_id] => 4
+    [location_id] => 
+    [age] => 46
+    [gender] => male
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 13:06:50] File moved successfully
+[images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php51D3.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 21331
+                )
+
+        )
+
+)
+
+[2025-03-10 13:06:50] Main image index: 0
+[2025-03-10 13:06:50] Response: {"success":true,"files":[{"original_name":"rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","saved_name":"67cee3eab39c1_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","path":"uploads\/listings\/67cee3eab39c1_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg"}],"errors":[],"form_data":{"title":"fdgdfgdfghdf erhffg","description":"tfdhgf gfnfdh fghdrth gfh ","category_id":"4","location_id":"","age":"46","gender":"male","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 13:06:50] Moving file to: uploads/listings/67cee3eab4d83_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+[2025-03-10 13:06:50] Processing file: rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg, size: 21331, error: 0
+[2025-03-10 13:06:50] Moving file to: uploads/listings/67cee3eab5976_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg
+[2025-03-10 13:06:50] File moved successfully
+[2025-03-10 13:06:50] Main image index: 0
+[2025-03-10 13:06:50] Main image index: 0
+[2025-03-10 13:06:50] Response: {"success":true,"files":[{"original_name":"rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","saved_name":"67cee3eab4d83_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","path":"uploads\/listings\/67cee3eab4d83_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg"}],"errors":[],"form_data":{"title":"fdgdfgdfghdf erhffg","description":"tfdhgf gfnfdh fghdrth gfh ","category_id":"4","location_id":"","age":"46","gender":"male","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 13:06:50] Response: {"success":true,"files":[{"original_name":"rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","saved_name":"67cee3eab3ab6_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","path":"uploads\/listings\/67cee3eab3ab6_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg"}],"errors":[],"form_data":{"title":"fdgdfgdfghdf erhffg","description":"tfdhgf gfnfdh fghdrth gfh ","category_id":"4","location_id":"","age":"46","gender":"male","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 13:06:50] File moved successfully
+[2025-03-10 13:06:50] Main image index: 0
+[2025-03-10 13:06:50] Response: {"success":true,"files":[{"original_name":"rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","saved_name":"67cee3eab5976_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg","path":"uploads\/listings\/67cee3eab5976_rudra-choudhary-indian-gay-escort-in-jaipur-6345372_listing.jpg"}],"errors":[],"form_data":{"title":"fdgdfgdfghdf erhffg","description":"tfdhgf gfnfdh fghdrth gfh ","category_id":"4","location_id":"","age":"46","gender":"male","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 13:11:11] Upload handler started
+[2025-03-10 13:11:11] POST data: Array
+(
+    [main_image] => 0
+)
+
+[2025-03-10 13:11:11] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php4C81.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13312
+                )
+
+        )
+
+)
+
+[2025-03-10 13:11:11] Processing file: hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg
+[2025-03-10 13:11:11] Moving file to: uploads/listings/67cee4ef7f79a_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg
+[2025-03-10 13:11:11] File moved successfully
+[2025-03-10 13:11:11] Main image index: 0
+[2025-03-10 13:11:11] Response: {"success":true,"files":[{"original_name":"hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg","saved_name":"67cee4ef7f79a_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg","path":"uploads\/listings\/67cee4ef7f79a_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg"}],"errors":[],"form_data":{"main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 13:11:31] Upload handler started
+[2025-03-10 13:11:31] POST data: Array
+(
+    [main_image] => 0
+)
+
+[2025-03-10 13:11:31] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php99F6.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13312
+                )
+
+        )
+
+)
+
+[2025-03-10 13:11:31] Processing file: hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg
+[2025-03-10 13:11:31] Moving file to: uploads/listings/67cee5035452c_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg
+[2025-03-10 13:11:31] File moved successfully
+[2025-03-10 13:11:31] Main image index: 0
+[2025-03-10 13:11:31] Response: {"success":true,"files":[{"original_name":"hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg","saved_name":"67cee5035452c_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg","path":"uploads\/listings\/67cee5035452c_hot-juicy-booty-african-escort-lisa-tanzanian-escort-in-jaipur-9452954_listing.jpg"}],"errors":[],"form_data":{"main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 13:15:52] Upload handler started
+[2025-03-10 13:15:52] POST data: Array
+(
+    [main_image] => 0
+)
+
+[2025-03-10 13:15:52] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg
+                    [1] => rudra-choudhary-indian-gay-escort-in-jaipur-6107266_listing.jpg
+                    [2] => gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070032_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg
+                    [1] => rudra-choudhary-indian-gay-escort-in-jaipur-6107266_listing.jpg
+                    [2] => gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070032_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                    [1] => image/jpeg
+                    [2] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php94C4.tmp
+                    [1] => C:\Users\bhawana\AppData\Local\Temp\php94C5.tmp
+                    [2] => C:\Users\bhawana\AppData\Local\Temp\php94C6.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 22637
+                    [1] => 13636
+                    [2] => 12539
+                )
+
+        )
+
+)
+
+[2025-03-10 13:15:52] Processing file: shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg
+[2025-03-10 13:15:52] Moving file to: uploads/listings/67cee60827766_shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg
+[2025-03-10 13:15:52] File moved successfully
+[2025-03-10 13:15:52] Processing file: rudra-choudhary-indian-gay-escort-in-jaipur-6107266_listing.jpg
+[2025-03-10 13:15:52] Moving file to: uploads/listings/67cee60827cdb_rudra-choudhary-indian-gay-escort-in-jaipur-6107266_listing.jpg
+[2025-03-10 13:15:52] File moved successfully
+[2025-03-10 13:15:52] Processing file: gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070032_listing.jpg
+[2025-03-10 13:15:52] Moving file to: uploads/listings/67cee608282af_gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070032_listing.jpg
+[2025-03-10 13:15:52] File moved successfully
+[2025-03-10 13:15:52] Main image index: 0
+[2025-03-10 13:15:52] Response: {"success":true,"files":[{"original_name":"shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg","saved_name":"67cee60827766_shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg","path":"uploads\/listings\/67cee60827766_shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg"},{"original_name":"rudra-choudhary-indian-gay-escort-in-jaipur-6107266_listing.jpg","saved_name":"67cee60827cdb_rudra-choudhary-indian-gay-escort-in-jaipur-6107266_listing.jpg","path":"uploads\/listings\/67cee60827cdb_rudra-choudhary-indian-gay-escort-in-jaipur-6107266_listing.jpg"},{"original_name":"gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070032_listing.jpg","saved_name":"67cee608282af_gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070032_listing.jpg","path":"uploads\/listings\/67cee608282af_gorgeous-hot-chocolate-african-girl-rita-tanzanian-escort-in-new-delhi-9070032_listing.jpg"}],"errors":[],"form_data":{"main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 13:29:44] Upload handler started
+[2025-03-10 13:29:44] POST data: Array
+(
+    [title] => ftgergver er ergergt 
+    [description] => regter rtg erg gregtt
+    [category_id] => 4
+    [location_id] => 3
+    [age] => 34
+    [gender] => male
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 13:29:44] FILES data: Array
+(
+)
+
+[2025-03-10 13:29:44] Exception: No files uploaded
+[2025-03-10 13:29:45] Upload handler started
+[2025-03-10 13:29:45] POST data: Array
+(
+    [title] => ftgergver er ergergt 
+    [description] => regter rtg erg gregtt
+    [category_id] => 4
+    [location_id] => 3
+    [age] => 34
+    [gender] => male
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 13:29:45] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php4DBC.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 22637
+                )
+
+        )
+
+)
+
+[2025-03-10 13:29:45] Processing file: shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg
+[2025-03-10 13:29:45] Moving file to: uploads/listings/67cee949e720e_shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg
+[2025-03-10 13:29:45] File moved successfully
+[2025-03-10 13:29:45] Main image index: 0
+[2025-03-10 13:29:45] Response: {"success":true,"files":[{"original_name":"shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg","saved_name":"67cee949e720e_shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg","path":"uploads\/listings\/67cee949e720e_shivam-singh-25-indian-gay-escort-in-jaipur-8502710_listing.jpg"}],"errors":[],"form_data":{"title":"ftgergver er ergergt ","description":"regter rtg erg gregtt","category_id":"4","location_id":"3","age":"34","gender":"male","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-10 13:30:11] Upload handler started
+[2025-03-10 13:30:11] POST data: Array
+(
+    [title] => ftgergver er ergergt 
+    [description] => regter rtg erg gregtt
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => male
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 13:30:11] FILES data: Array
+(
+)
+
+[2025-03-10 13:30:11] Exception: No files uploaded
+[2025-03-10 13:30:14] Upload handler started
+[2025-03-10 13:30:14] POST data: Array
+(
+    [title] => ftgergver er ergergt 
+    [description] => regter rtg erg gregtt
+    [category_id] => 4
+    [location_id] => 
+    [age] => 34
+    [gender] => male
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-10 13:30:14] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\phpBB5B.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 18334
+                )
+
+        )
+
+)
+
+[2025-03-10 13:30:14] Processing file: simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+[2025-03-10 13:30:14] Moving file to: uploads/listings/67cee966007cc_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg
+[2025-03-10 13:30:14] File moved successfully
+[2025-03-10 13:30:14] Main image index: 0
+[2025-03-10 13:30:14] Response: {"success":true,"files":[{"original_name":"simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","saved_name":"67cee966007cc_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg","path":"uploads\/listings\/67cee966007cc_simple-chora-indian-gay-escort-in-jaipur-9098636_listing.jpg"}],"errors":[],"form_data":{"title":"ftgergver er ergergt ","description":"regter rtg erg gregtt","category_id":"4","location_id":"","age":"34","gender":"male","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 04:38:35] Upload handler started
+[2025-03-11 04:38:35] POST data: Array
+(
+    [title] => dfhdf drhf dfh dfh
+    [description] => dfh dfh dfh fg hfghf gh
+    [category_id] => 2
+    [location_id] => 3
+    [age] => 45
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 04:38:35] FILES data: Array
+(
+)
+
+[2025-03-11 04:38:35] Exception: No files uploaded
+[2025-03-11 04:38:37] Upload handler started
+[2025-03-11 04:38:37] POST data: Array
+(
+    [title] => dfhdf drhf dfh dfh
+    [description] => dfh dfh dfh fg hfghf gh
+    [category_id] => 2
+    [location_id] => 3
+    [age] => 45
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 04:38:37] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => kelly-ethiopian-escort-in-jaipur-10467000_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => kelly-ethiopian-escort-in-jaipur-10467000_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php6401.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 4892
+                )
+
+        )
+
+)
+
+[2025-03-11 04:38:37] Processing file: kelly-ethiopian-escort-in-jaipur-10467000_listing_11zon.jpg
+[2025-03-11 04:38:37] Moving file to: uploads/listings/67cfbe4d978c9_kelly-ethiopian-escort-in-jaipur-10467000_listing_11zon.jpg
+[2025-03-11 04:38:37] File moved successfully
+[2025-03-11 04:38:37] Main image index: 0
+[2025-03-11 04:38:37] Response: {"success":true,"files":[{"original_name":"kelly-ethiopian-escort-in-jaipur-10467000_listing_11zon.jpg","saved_name":"67cfbe4d978c9_kelly-ethiopian-escort-in-jaipur-10467000_listing_11zon.jpg","path":"uploads\/listings\/67cfbe4d978c9_kelly-ethiopian-escort-in-jaipur-10467000_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"dfhdf drhf dfh dfh","description":"dfh dfh dfh fg hfghf gh","category_id":"2","location_id":"3","age":"45","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 04:51:43] Upload handler started
+[2025-03-11 04:51:43] POST data: Array
+(
+    [title] => dfhdf drhf dfh dfh
+    [description] => dfh dfh dfh fg hfghf gh
+    [category_id] => 2
+    [location_id] => 
+    [age] => 45
+    [gender] => female
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 87326482364
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 04:51:43] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => kelly-ethiopian-escort-in-jaipur-10466998_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => kelly-ethiopian-escort-in-jaipur-10466998_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php6262.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 4916
+                )
+
+        )
+
+)
+
+[2025-03-11 04:51:43] Processing file: kelly-ethiopian-escort-in-jaipur-10466998_listing_11zon.jpg
+[2025-03-11 04:51:43] Moving file to: uploads/listings/67cfc15fa21bf_kelly-ethiopian-escort-in-jaipur-10466998_listing_11zon.jpg
+[2025-03-11 04:51:43] File moved successfully
+[2025-03-11 04:51:43] Main image index: 0
+[2025-03-11 04:51:43] Response: {"success":true,"files":[{"original_name":"kelly-ethiopian-escort-in-jaipur-10466998_listing_11zon.jpg","saved_name":"67cfc15fa21bf_kelly-ethiopian-escort-in-jaipur-10466998_listing_11zon.jpg","path":"uploads\/listings\/67cfc15fa21bf_kelly-ethiopian-escort-in-jaipur-10466998_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"dfhdf drhf dfh dfh","description":"dfh dfh dfh fg hfghf gh","category_id":"2","location_id":"","age":"45","gender":"female","height":"","weight":"","sexuality":"","languages":"","phone":"87326482364","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 04:52:30] Upload handler started
+[2025-03-11 04:52:30] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 04:52:30] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php17F7.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 14452
+                )
+
+        )
+
+)
+
+[2025-03-11 04:52:30] Processing file: emily-escort-in-ahmedabad-10011842_listing.jpg
+[2025-03-11 04:52:30] Moving file to: uploads/listings/67cfc18e26aed_emily-escort-in-ahmedabad-10011842_listing.jpg
+[2025-03-11 04:52:30] File moved successfully
+[2025-03-11 04:52:30] Main image index: 0
+[2025-03-11 04:52:30] Response: {"success":true,"files":[{"original_name":"emily-escort-in-ahmedabad-10011842_listing.jpg","saved_name":"67cfc18e26aed_emily-escort-in-ahmedabad-10011842_listing.jpg","path":"uploads\/listings\/67cfc18e26aed_emily-escort-in-ahmedabad-10011842_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 04:52:40] Upload handler started
+[2025-03-11 04:52:40] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 04:52:40] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php410C.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 14452
+                )
+
+        )
+
+)
+
+[2025-03-11 04:52:40] Processing file: emily-escort-in-ahmedabad-10011842_listing.jpg
+[2025-03-11 04:52:40] Moving file to: uploads/listings/67cfc198a40e6_emily-escort-in-ahmedabad-10011842_listing.jpg
+[2025-03-11 04:52:40] File moved successfully
+[2025-03-11 04:52:40] Main image index: 0
+[2025-03-11 04:52:40] Response: {"success":true,"files":[{"original_name":"emily-escort-in-ahmedabad-10011842_listing.jpg","saved_name":"67cfc198a40e6_emily-escort-in-ahmedabad-10011842_listing.jpg","path":"uploads\/listings\/67cfc198a40e6_emily-escort-in-ahmedabad-10011842_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 04:52:44] Upload handler started
+[2025-03-11 04:52:44] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 04:52:44] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php4F84.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 14452
+                )
+
+        )
+
+)
+
+[2025-03-11 04:52:44] Processing file: emily-escort-in-ahmedabad-10011842_listing.jpg
+[2025-03-11 04:52:44] Moving file to: uploads/listings/67cfc19c5c39a_emily-escort-in-ahmedabad-10011842_listing.jpg
+[2025-03-11 04:52:44] File moved successfully
+[2025-03-11 04:52:44] Main image index: 0
+[2025-03-11 04:52:44] Response: {"success":true,"files":[{"original_name":"emily-escort-in-ahmedabad-10011842_listing.jpg","saved_name":"67cfc19c5c39a_emily-escort-in-ahmedabad-10011842_listing.jpg","path":"uploads\/listings\/67cfc19c5c39a_emily-escort-in-ahmedabad-10011842_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:01:21] Upload handler started
+[2025-03-11 05:01:21] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:01:21] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3407.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 5503
+                )
+
+        )
+
+)
+
+[2025-03-11 05:01:21] Processing file: sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+[2025-03-11 05:01:21] Moving file to: uploads/listings/67cfc3a1b4124_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+[2025-03-11 05:01:21] File moved successfully
+[2025-03-11 05:01:21] Main image index: 0
+[2025-03-11 05:01:21] Response: {"success":true,"files":[{"original_name":"sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg","saved_name":"67cfc3a1b4124_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg","path":"uploads\/listings\/67cfc3a1b4124_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:01:21] Upload handler started
+[2025-03-11 05:01:21] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:01:21] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3409.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 5503
+                )
+
+        )
+
+)
+
+[2025-03-11 05:01:21] Processing file: sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+[2025-03-11 05:01:21] Moving file to: uploads/listings/67cfc3a1b6714_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+[2025-03-11 05:01:21] Upload handler started
+[2025-03-11 05:01:21] File moved successfully
+[2025-03-11 05:01:21] Main image index: 0
+[2025-03-11 05:01:21] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:01:21] Response: {"success":true,"files":[{"original_name":"sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg","saved_name":"67cfc3a1b6714_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg","path":"uploads\/listings\/67cfc3a1b6714_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:01:21] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3408.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 5503
+                )
+
+        )
+
+)
+
+[2025-03-11 05:01:21] Processing file: sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+[2025-03-11 05:01:21] Moving file to: uploads/listings/67cfc3a1b7aa2_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg
+[2025-03-11 05:01:21] File moved successfully
+[2025-03-11 05:01:21] Main image index: 0
+[2025-03-11 05:01:21] Response: {"success":true,"files":[{"original_name":"sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg","saved_name":"67cfc3a1b7aa2_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg","path":"uploads\/listings\/67cfc3a1b7aa2_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354516_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:01:30] Upload handler started
+[2025-03-11 05:01:30] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:01:30] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php5703.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 10396
+                )
+
+        )
+
+)
+
+[2025-03-11 05:01:30] Processing file: kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+[2025-03-11 05:01:30] Moving file to: uploads/listings/67cfc3aaa9728_kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+[2025-03-11 05:01:30] File moved successfully
+[2025-03-11 05:01:30] Main image index: 0
+[2025-03-11 05:01:30] Response: {"success":true,"files":[{"original_name":"kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg","saved_name":"67cfc3aaa9728_kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg","path":"uploads\/listings\/67cfc3aaa9728_kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:01:30] Upload handler started
+[2025-03-11 05:01:30] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:01:30] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php5714.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 10396
+                )
+
+        )
+
+)
+
+[2025-03-11 05:01:30] Processing file: kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+[2025-03-11 05:01:30] Moving file to: uploads/listings/67cfc3aaad7b1_kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+[2025-03-11 05:01:30] File moved successfully
+[2025-03-11 05:01:30] Main image index: 0
+[2025-03-11 05:01:30] Response: {"success":true,"files":[{"original_name":"kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg","saved_name":"67cfc3aaad7b1_kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg","path":"uploads\/listings\/67cfc3aaad7b1_kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:01:30] Upload handler started
+[2025-03-11 05:01:30] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:01:30] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php5715.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 10396
+                )
+
+        )
+
+)
+
+[2025-03-11 05:01:30] Processing file: kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+[2025-03-11 05:01:30] Moving file to: uploads/listings/67cfc3aaae6b3_kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg
+[2025-03-11 05:01:30] File moved successfully
+[2025-03-11 05:01:30] Main image index: 0
+[2025-03-11 05:01:30] Response: {"success":true,"files":[{"original_name":"kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg","saved_name":"67cfc3aaae6b3_kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg","path":"uploads\/listings\/67cfc3aaae6b3_kelly-ethiopian-escort-in-jaipur-10466998_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:04:38] Upload handler started
+[2025-03-11 05:04:38] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:04:38] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3353.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 6541
+                )
+
+        )
+
+)
+
+[2025-03-11 05:04:38] Processing file: emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+[2025-03-11 05:04:38] Moving file to: uploads/listings/67cfc46633f02_emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+[2025-03-11 05:04:38] File moved successfully
+[2025-03-11 05:04:38] Main image index: 0
+[2025-03-11 05:04:38] Response: {"success":true,"files":[{"original_name":"emily-escort-in-ahmedabad-10011842_listing_11zon.jpg","saved_name":"67cfc46633f02_emily-escort-in-ahmedabad-10011842_listing_11zon.jpg","path":"uploads\/listings\/67cfc46633f02_emily-escort-in-ahmedabad-10011842_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:04:38] Upload handler started
+[2025-03-11 05:04:38] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:04:38] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3364.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 6541
+                )
+
+        )
+
+)
+
+[2025-03-11 05:04:38] Processing file: emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+[2025-03-11 05:04:38] Moving file to: uploads/listings/67cfc46634da6_emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+[2025-03-11 05:04:38] File moved successfully
+[2025-03-11 05:04:38] Main image index: 0
+[2025-03-11 05:04:38] Response: {"success":true,"files":[{"original_name":"emily-escort-in-ahmedabad-10011842_listing_11zon.jpg","saved_name":"67cfc46634da6_emily-escort-in-ahmedabad-10011842_listing_11zon.jpg","path":"uploads\/listings\/67cfc46634da6_emily-escort-in-ahmedabad-10011842_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:04:38] Upload handler started
+[2025-03-11 05:04:38] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:04:38] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php3374.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 6541
+                )
+
+        )
+
+)
+
+[2025-03-11 05:04:38] Processing file: emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+[2025-03-11 05:04:38] Moving file to: uploads/listings/67cfc46639c8e_emily-escort-in-ahmedabad-10011842_listing_11zon.jpg
+[2025-03-11 05:04:38] File moved successfully
+[2025-03-11 05:04:38] Main image index: 0
+[2025-03-11 05:04:38] Response: {"success":true,"files":[{"original_name":"emily-escort-in-ahmedabad-10011842_listing_11zon.jpg","saved_name":"67cfc46639c8e_emily-escort-in-ahmedabad-10011842_listing_11zon.jpg","path":"uploads\/listings\/67cfc46639c8e_emily-escort-in-ahmedabad-10011842_listing_11zon.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:04:49] Upload handler started
+[2025-03-11 05:04:49] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:04:49] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php613C.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 11861
+                )
+
+        )
+
+)
+
+[2025-03-11 05:04:49] Processing file: sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+[2025-03-11 05:04:49] Moving file to: uploads/listings/67cfc471ea7c3_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+[2025-03-11 05:04:49] File moved successfully
+[2025-03-11 05:04:49] Main image index: 0
+[2025-03-11 05:04:49] Response: {"success":true,"files":[{"original_name":"sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg","saved_name":"67cfc471ea7c3_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg","path":"uploads\/listings\/67cfc471ea7c3_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:04:49] Upload handler started
+[2025-03-11 05:04:49] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:04:49] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php613D.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 11861
+                )
+
+        )
+
+)
+
+[2025-03-11 05:04:49] Processing file: sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+[2025-03-11 05:04:49] Moving file to: uploads/listings/67cfc471eb8f9_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+[2025-03-11 05:04:49] File moved successfully
+[2025-03-11 05:04:49] Main image index: 0
+[2025-03-11 05:04:49] Response: {"success":true,"files":[{"original_name":"sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg","saved_name":"67cfc471eb8f9_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg","path":"uploads\/listings\/67cfc471eb8f9_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:04:49] Upload handler started
+[2025-03-11 05:04:49] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:04:49] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php614E.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 11861
+                )
+
+        )
+
+)
+
+[2025-03-11 05:04:49] Processing file: sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+[2025-03-11 05:04:49] Moving file to: uploads/listings/67cfc471ef3a6_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg
+[2025-03-11 05:04:49] File moved successfully
+[2025-03-11 05:04:49] Main image index: 0
+[2025-03-11 05:04:49] Response: {"success":true,"files":[{"original_name":"sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg","saved_name":"67cfc471ef3a6_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg","path":"uploads\/listings\/67cfc471ef3a6_sweet-juicy-foreign-pussy-south-african-escort-in-jaipur-10354514_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:04:58] Upload handler started
+[2025-03-11 05:04:58] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:04:58] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php80AE.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 10342
+                )
+
+        )
+
+)
+
+[2025-03-11 05:04:58] Processing file: hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+[2025-03-11 05:04:58] Moving file to: uploads/listings/67cfc47a01a85_hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+[2025-03-11 05:04:58] File moved successfully
+[2025-03-11 05:04:58] Main image index: 0
+[2025-03-11 05:04:58] Response: {"success":true,"files":[{"original_name":"hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg","saved_name":"67cfc47a01a85_hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg","path":"uploads\/listings\/67cfc47a01a85_hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:04:58] Upload handler started
+[2025-03-11 05:04:58] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:04:58] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php80AF.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 10342
+                )
+
+        )
+
+)
+
+[2025-03-11 05:04:58] Processing file: hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+[2025-03-11 05:04:58] Moving file to: uploads/listings/67cfc47a023f6_hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+[2025-03-11 05:04:58] File moved successfully
+[2025-03-11 05:04:58] Main image index: 0
+[2025-03-11 05:04:58] Response: {"success":true,"files":[{"original_name":"hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg","saved_name":"67cfc47a023f6_hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg","path":"uploads\/listings\/67cfc47a023f6_hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}
+[2025-03-11 05:04:58] Upload handler started
+[2025-03-11 05:04:58] POST data: Array
+(
+    [title] => 
+    [description] => 
+    [category_id] => 
+    [location_id] => 
+    [age] => 
+    [gender] => 
+    [height] => 
+    [weight] => 
+    [sexuality] => 
+    [languages] => 
+    [phone] => 
+    [website] => 
+    [whatsapp] => 
+    [instagram] => 
+    [telegram] => 
+    [snapchat] => 
+    [facebook] => 
+    [tags] => 
+    [main_image] => 0
+)
+
+[2025-03-11 05:04:58] FILES data: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\bhawana\AppData\Local\Temp\php80B0.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 10342
+                )
+
+        )
+
+)
+
+[2025-03-11 05:04:58] Processing file: hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+[2025-03-11 05:04:58] Moving file to: uploads/listings/67cfc47a039ef_hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg
+[2025-03-11 05:04:58] File moved successfully
+[2025-03-11 05:04:58] Main image index: 0
+[2025-03-11 05:04:58] Response: {"success":true,"files":[{"original_name":"hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg","saved_name":"67cfc47a039ef_hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg","path":"uploads\/listings\/67cfc47a039ef_hot-ass-soft-boobs-african-queen-lisa-tanzanian-escort-in-new-delhi-9157006_listing.jpg"}],"errors":[],"form_data":{"title":"","description":"","category_id":"","location_id":"","age":"","gender":"","height":"","weight":"","sexuality":"","languages":"","phone":"","website":"","whatsapp":"","instagram":"","telegram":"","snapchat":"","facebook":"","tags":"","main_image":"0"},"message":"Files uploaded successfully"}

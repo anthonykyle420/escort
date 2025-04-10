@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Upload & Social Media</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        body { background-color: #212529; color: white; padding: 20px; }
+        .social-icon { font-size: 20px; width: 30px; text-align: center; }
+        .whatsapp-icon { color: #25D366; }
+        .facebook-icon { color: #1877F2; }
+        .instagram-icon { color: #E4405F; }
+        .twitter-icon { color: #1DA1F2; }
+        .telegram-icon { color: #0088cc; }
+        .snapchat-icon { color: #FFFC00; }
+        .tiktok-icon { color: #000000; }
+        .image-upload-btn { 
+            background: linear-gradient(45deg, #0d6efd, #0dcaf0);
+            border: none;
+            transition: all 0.3s;
+        }
+        .image-upload-btn:hover {
+            background: linear-gradient(45deg, #0b5ed7, #0aa2c0);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .social-add-btn {
+            background: linear-gradient(45deg, #198754, #20c997);
+            border: none;
+            transition: all 0.3s;
+        }
+        .social-add-btn:hover {
+            background: linear-gradient(45deg, #157347, #1aa179);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .image-preview-card {
+            transition: all 0.3s;
+            border: 2px solid #343a40;
+        }
+        .image-preview-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+            border-color: #0d6efd;
+        }
+        .main-image-badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: #0d6efd;
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+        }
+        .remove-btn {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background-color: rgba(220, 53, 69, 0.8);
+            color: white;
+            border: none;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .image-preview-card:hover .remove-btn {
+            opacity: 1;
+        }
+        .drag-area {
+            border: 2px dashed #6c757d;
+            height: 150px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-bottom: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .drag-area:hover {
+            border-color: #0d6efd;
+        }
+        .drag-area.active {
+            border-color: #0d6efd;
+            background-color: rgba(13, 110, 253, 0.1);
+        }
+        .drag-area .icon {
+            font-size: 50px;
+            color: #6c757d;
+        }
+        .drag-area h5 {
+            margin: 10px 0;
+        }
+        .drag-area span {
+            font-size: 14px;
+            color: #6c757d;
+        }
+        .drag-area button {
+            padding: 5px 20px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 class="mb-4">Test Page for Image Upload & Social Media</h2>
+        
+        <form id="test-form">
+            <!-- इमेज अपलोड सेक्शन -->
+            <div class="row mt-4">
+                <div class="col-12">
+                    <h4 class="text-primary">Images</h4>
+                    <hr class="border-secondary">
+                </div>
+                
+                <div class="col-12 mb-3">
+                    <div class="drag-area" id="drag-area">
+                        <div class="icon"><i class="fas fa-cloud-upload-alt"></i></div>
+                        <h5>Drag & Drop Images Here</h5>
+                        <span>OR</span>
+                        <button type="button" class="btn btn-outline-primary">Browse Files</button>
+                        <input type="file" id="images" accept="image/*" multiple style="display: none;">
+                    </div>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <small class="text-muted">Select up to 10 images. Click on an image to set as main.</small>
+                        <span id="image-count" class="badge bg-primary">0/10 images</span>
+                    </div>
+                </div>
+                
+                <div class="col-12 mb-4">
+                    <div class="row" id="image-preview"></div>
+                </div>
+            </div>
+            
+            <!-- सोशल मीडिया सेक्शन -->
+            <div class="row mt-4">
+                <div class="col-12">
+                    <h4 class="text-primary">Social Media</h4>
+                    <hr class="border-secondary">
+                </div>
+                
+                <div class="col-12 mb-3">
+                    <div id="social-media-container">
+                        <!-- सोशल मीडिया आइटम्स यहां जोड़े जाएंगे -->
+                    </div>
+                    
+                    <button type="button" class="btn social-add-btn mt-3" id="add-social-btn">
+                        <i class="fas fa-plus"></i> Add Social Media
+                    </button>
+                </div>
+            </div>
+            
+            <div class="row mt-4">
+                <div class="col-12">
+                    <button type="submit" class="btn btn-primary">Submit Form</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // ========== इमेज अपलोड स्क्रिप्ट ==========
+            const dragArea = document.getElementById('drag-area');
+            const imagesInput = document.getElementById('images');
+            const imagePreview = document.getElementById('image-preview');
+            const imageCount = document.getElementById('image-count');
+            const browseBtn = dragArea.querySelector('button');
+            
+            let files = []; // अपलोड की गई फाइल्स स्टोर करने के लिए
+            let mainImageIndex = 0; // मेन इमेज का इंडेक्स
+            
+            // ब्राउज़ बटन क्लिक
+            browseBtn.addEventListener('click', () => {
+                imagesInput.click();
+            });
+            
+            // फाइल सिलेक्ट करने पर
+            imagesInput.addEventListener('change', function() {
+                const selectedFiles = Array.from(this.files);
+                
+                if (files.length + selectedFiles.length > 10) {
+                    alert('You can upload maximum 10 images');
+                    return;
+                }
+                
+                selectedFiles.forEach(file => {
+                    if (!file.type.startsWith('image/')) {
+                        alert('Please select only image files');
+                        return;
+                    }
+                    
+                    files.push(file);
+                });
+                
+                showImages();
+                updateImageCount();
+            });
+            
+            // ड्रैग एंड ड्रॉप इवेंट्स
+            ['dragover', 'dragleave', 'drop'].forEach(eventName => {
+                dragArea.addEventListener(eventName, preventDefaults, false);
+            });
+            
+            function preventDefaults(e) {
+                e.preventDefault();
+                e.stopPropagation();
+            }
+            
+            dragArea.addEventListener('dragover', function() {
+                this.classList.add('active');
+            });
+            
+            dragArea.addEventListener('dragleave', function() {
+                this.classList.remove('active');
+            });
+            
+            dragArea.addEventListener('drop', function(e) {
+                this.classList.remove('active');
+                
+                const droppedFiles = Array.from(e.dataTransfer.files);
+                
+                if (files.length + droppedFiles.length > 10) {
+                    alert('You can upload maximum 10 images');
+                    return;
+                }
+                
+                droppedFiles.forEach(file => {
+                    if (!file.type.startsWith('image/')) {
+                        alert('Please select only image files');
+                        return;
+                    }
+                    
+                    files.push(file);
+                });
+                
+                showImages();
+                updateImageCount();
+            });
+            
+            // इमेजेज दिखाएं
+            function showImages() {
+                imagePreview.innerHTML = '';
+                
+                files.forEach((file, index) => {
+                    const reader = new FileReader();
+                    
+                    reader.onload = function(e) {
+                        const col = document.createElement('div');
+                        col.className = 'col-md-3 mb-3';
+                        
+                        const card = document.createElement('div');
+                        card.className = 'card bg-dark image-preview-card position-relative';
+                        card.dataset.index = index;
+                        
+                        // मेन इमेज बैज
+                        if (index === mainImageIndex) {
+                            const badge = document.createElement('div');
+                            badge.className = 'main-image-badge';
+                            badge.innerHTML = '<i class="fas fa-star"></i> Main';
+                            card.appendChild(badge);
+                        }
+                        
+                        // रिमूव बटन
+                        const removeBtn = document.createElement('button');
+                        removeBtn.type = 'button';
+                        removeBtn.className = 'remove-btn';
+                        removeBtn.innerHTML = '<i class="fas fa-times"></i>';
+                        removeBtn.addEventListener('click', function(e) {
+                            e.stopPropagation();
+                            files.splice(index, 1);
+                            
+                            if (mainImageIndex === index) {
+                                mainImageIndex = files.length > 0 ? 0 : -1;
+                            } else if (mainImageIndex > index) {
+                                mainImageIndex--;
+                            }
+                            
+                            showImages();
+                            updateImageCount();
+                        });
+                        
+                        const img = document.createElement('img');
+                        img.src = e.target.result;
+                        img.className = 'card-img-top';
+                        img.style.height = '200px';
+                        img.style.objectFit = 'cover';
+                        
+                        card.appendChild(removeBtn);
+                        card.appendChild(img);
+                        
+                        // मेन इमेज सेट करने के लिए क्लिक इवेंट
+                        card.addEventListener('click', function() {
+                            mainImageIndex = parseInt(this.dataset.index);
+                            showImages();
+                        });
+                        
+                        col.appendChild(card);
+                        imagePreview.appendChild(col);
+                    };
+                    
+                    reader.readAsDataURL(file);
+                });
+            }
+            
+            // इमेज काउंट अपडेट करें
+            function updateImageCount() {
+                imageCount.textContent = `${files.length}/10 images`;
+            }
+            
+            // ========== सोशल मीडिया स्क्रिप्ट ==========
+            const socialMediaContainer = document.getElementById('social-media-container');
+            const addSocialBtn = document.getElementById('add-social-btn');
+            
+            // सोशल मीडिया आइकन्स
+            const socialIcons = {
+                'whatsapp': '<i class="fab fa-whatsapp social-icon whatsapp-icon"></i>',
+                'facebook': '<i class="fab fa-facebook social-icon facebook-icon"></i>',
+                'instagram': '<i class="fab fa-instagram social-icon instagram-icon"></i>',
+                'twitter': '<i class="fab fa-twitter social-icon twitter-icon"></i>',
+                'telegram': '<i class="fab fa-telegram social-icon telegram-icon"></i>',
+                'snapchat': '<i class="fab fa-snapchat social-icon snapchat-icon"></i>',
+                'tiktok': '<i class="fab fa-tiktok social-icon tiktok-icon"></i>',
+                'other': '<i class="fas fa-globe social-icon"></i>'
+            };
+            
+            // सोशल मीडिया के लिए उपलब्ध इनपुट टाइप्स
+            const availableInputTypes = {
+                'whatsapp': ['number'],
+                'facebook': ['username', 'link'],
+                'instagram': ['username'],
+                'twitter': ['username', 'link'],
+                'telegram': ['username', 'link'],
+                'snapchat': ['username'],
+                'tiktok': ['username'],
+                'other': ['username', 'link', 'number']
+            };
+            
+            // इनपुट टाइप्स के लिए प्लेसहोल्डर्स
+            const inputTypePlaceholders = {
+                'username': {
+                    'whatsapp': 'Enter username',
+                    'facebook': 'Enter username (without @)',
+                    'instagram': 'Enter username (without @)',
+                    'twitter': 'Enter username (without @)',
+                    'telegram': 'Enter username',
+                    'snapchat': 'Enter username',
+                    'tiktok': 'Enter username (without @)',
+                    'other': 'Enter username'
+                },
+                'link': {
+                    'whatsapp': 'Enter WhatsApp link',
+                    'facebook': 'Enter profile/page link',
+                    'instagram': 'Enter profile link',
+                    'twitter': 'Enter profile link',
+                    'telegram': 'Enter channel/group link',
+                    'snapchat': 'Enter profile link',
+                    'tiktok': 'Enter profile link',
+                    'other': 'Enter link'
+                },
+                'number': {
+                    'whatsapp': 'Enter phone number',
+                    'facebook': 'Enter phone number',
+                    'instagram': 'Enter phone number',
+                    'twitter': 'Enter phone number',
+                    'telegram': 'Enter phone number',
+                    'snapchat': 'Enter phone number',
+                    'tiktok': 'Enter phone number',
+                    'other': 'Enter phone number'
+                }
+            };
+            
+            // इनपुट टाइप्स के लिए HTML इनपुट टाइप्स
+            const htmlInputTypes = {
+                'username': 'text',
+                'link': 'url',
+                'number': 'tel'
+            };
+            
+            // पहला सोशल मीडिया आइटम जोड़ें
+            addSocialMedia();
+            
+            // सोशल मीडिया जोड़ने का बटन
+            addSocialBtn.addEventListener('click', function() {
+                addSocialMedia();
+            });
+            
+            // सोशल मीडिया आइटम जोड़ने का फंक्शन
+            function addSocialMedia() {
+                const row = document.createElement('div');
+                row.className = 'row mb-3 align-items-center social-media-row';
+                
+                // डिफॉल्ट प्लेटफॉर्म और इनपुट टाइप
+                const defaultPlatform = 'whatsapp';
+                const defaultInputType = availableInputTypes[defaultPlatform][0];
+                
+                row.innerHTML = `
+                    <div class="col-md-3">
+                        <select class="form-select bg-dark text-white border-secondary social-media-type">
+                            <option value="whatsapp">WhatsApp</option>
+                            <option value="facebook">Facebook</option>
+                            <option value="instagram">Instagram</option>
+                            <option value="twitter">Twitter</option>
+                            <option value="telegram">Telegram</option>
+                            <option value="snapchat">Snapchat</option>
+                            <option value="tiktok">TikTok</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                        <select class="form-select bg-dark text-white border-secondary social-media-input-type">
+                            ${getInputTypeOptions(defaultPlatform)}
+                        </select>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="input-group">
+                            <span class="input-group-text bg-dark text-white border-secondary">${socialIcons[defaultPlatform]}</span>
+                            <input type="${htmlInputTypes[defaultInputType]}" class="form-control bg-dark text-white border-secondary social-media-value" 
+                                placeholder="${inputTypePlaceholders[defaultInputType][defaultPlatform]}">
+                        </div>
+                    </div>
+                    <div class="col-md-1">
+                        <button type="button" class="btn btn-danger remove-social-btn"><i class="fas fa-trash"></i></button>
+                    </div>
+                `;
+                
+                // सोशल मीडिया टाइप चेंज इवेंट
+                const typeSelect = row.querySelector('.social-media-type');
+                const inputTypeSelect = row.querySelector('.social-media-input-type');
+                const iconSpan = row.querySelector('.input-group-text');
+                const valueInput = row.querySelector('.social-media-value');
+                
+                typeSelect.addEventListener('change', function() {
+                    const selectedType = this.value;
+                    iconSpan.innerHTML = socialIcons[selectedType];
+                    
+                    // इनपुट टाइप ऑप्शन्स अपडेट करें
+                    inputTypeSelect.innerHTML = getInputTypeOptions(selectedType);
+                    
+                    // डिफॉल्ट इनपुट टाइप सेट करें
+                    const newInputType = availableInputTypes[selectedType][0];
+                    inputTypeSelect.value = newInputType;
+                    
+                    // इनपुट फील्ड अपडेट करें
+                    updateInputField(valueInput, newInputType, selectedType);
+                });
+                
+                // इनपुट टाइप चेंज इवेंट
+                inputTypeSelect.addEventListener('change', function() {
+                    const selectedInputType = this.value;
+                    const selectedPlatform = typeSelect.value;
+                    
+                    // इनपुट फील्ड अपडेट करें
+                    updateInputField(valueInput, selectedInputType, selectedPlatform);
+                });
+                
+                // रिमूव बटन इवेंट
+                row.querySelector('.remove-social-btn').addEventListener('click', function() {
+                    row.remove();
+                });
+                
+                socialMediaContainer.appendChild(row);
+            }
+            
+            // इनपुट टाइप ऑप्शन्स जनरेट करें
+            function getInputTypeOptions(platform) {
+                let options = '';
+                availableInputTypes[platform].forEach(type => {
+                    options += `<option value="${type}">${capitalizeFirstLetter(type)}</option>`;
+                });
+                return options;
+            }
+            
+            // इनपुट फील्ड अपडेट करें
+            function updateInputField(inputField, inputType, platform) {
+                inputField.type = htmlInputTypes[inputType];
+                inputField.placeholder = inputTypePlaceholders[inputType][platform];
+                
+                // नंबर के लिए अतिरिक्त वैलिडेशन
+                if (inputType === 'number') {
+                    inputField.pattern = '[0-9]{10,15}';
+                    inputField.title = 'Enter a valid phone number (10-15 digits)';
+                } else {
+                    inputField.removeAttribute('pattern');
+                    inputField.removeAttribute('title');
+                }
+            }
+            
+            // पहला अक्षर कैपिटल करें
+            function capitalizeFirstLetter(string) {
+                return string.charAt(0).toUpperCase() + string.slice(1);
+            }
+            
+            // फॉर्म सबमिट
+            document.getElementById('test-form').addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                if (files.length === 0) {
+                    alert('Please add at least one image');
+                    return;
+                }
+                
+                // यहां आप फॉर्म डेटा को प्रोसेस कर सकते हैं
+                console.log('Form submitted');
+                console.log('Main image index:', mainImageIndex);
+                console.log('Total images:', files.length);
+                
+                // सोशल मीडिया डेटा
+                const socialMediaData = [];
+                const socialMediaRows = document.querySelectorAll('.social-media-row');
+                
+                socialMediaRows.forEach(row => {
+                    const platform = row.querySelector('.social-media-type').value;
+                    const inputType = row.querySelector('.social-media-input-type').value;
+                    const value = row.querySelector('.social-media-value').value;
+                    
+                    if (value.trim() !== '') {
+                        socialMediaData.push({
+                            platform: platform,
+                            inputType: inputType,
+                            value: value
+                        });
+                    }
+                });
+                
+                console.log('Social Media:', socialMediaData);
+                
+                alert('Form submitted successfully! Check console for data.');
+            });
+        });
+    </script>
+</body>
+</html> 

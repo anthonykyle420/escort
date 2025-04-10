@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Upload Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        .preview-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .preview-item {
+            position: relative;
+            width: 100px;
+            height: 100px;
+        }
+        .preview-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+        .preview-remove {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            background-color: red;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+        }
+        .preview-main {
+            position: absolute;
+            bottom: 5px;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 3px;
+            padding: 2px 5px;
+            font-size: 10px;
+            cursor: pointer;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>File Upload Test</h1>
+    
+    <form id="upload-form" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="images">Select Images (Max 10)</label>
+            <input type="file" id="images" name="images[]" multiple accept="image/jpeg,image/png,image/gif">
+        </div>
+        
+        <div class="preview-container" id="preview-container"></div>
+        
+        <input type="hidden" id="main-image" name="main_image" value="0">
+        
+        <div class="form-group">
+            <button type="submit" id="submit-btn">Upload Files</button>
+        </div>
+    </form>
+    
+    <div class="result" id="result"></div>
+    
+    <script>
+        // फाइल इनपुट
+        const fileInput = document.getElementById('images');
+        const previewContainer = document.getElementById('preview-container');
+        const mainImageInput = document.getElementById('main-image');
+        const form = document.getElementById('upload-form');
+        const resultDiv = document.getElementById('result');
+        
+        // फाइल चेंज इवेंट
+        fileInput.addEventListener('change', function() {
+            previewImages(this.files);
+        });
+        
+        // फॉर्म सबमिट
+        form.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            if (fileInput.files.length === 0) {
+                alert('Please select at least one file');
+                return;
+            }
+            
+            uploadFiles();
+        });
+        
+        // इमेज प्रीव्यू फंक्शन
+        function previewImages(files) {
+            previewContainer.innerHTML = '';
+            
+            for (let i = 0; i < files.length; i++) {
+                const file = files[i];
+                
+                // फाइल टाइप चेक करें
+                if (!file.type.match('image.*')) {
+                    continue;
+                }
+                
+                const reader = new FileReader();
+                
+                reader.onload = function(e) {
+                    const imgContainer = document.createElement('div');
+                    imgContainer.className = 'preview-item';
+                    imgContainer.dataset.index = i;
+                    
+                    // इमेज
+                    const img = document.createElement('img');
+                    img.src = e.target.result;
+                    
+                    // रिमूव बटन
+                    const removeBtn = document.createElement('button');
+                    removeBtn.className = 'preview-remove';
+                    removeBtn.innerHTML = '×';
+                    removeBtn.addEventListener('click', function() {
+                        // नोट: इस सिंपल डेमो में, हम सिर्फ प्रीव्यू हटा रहे हैं
+                        // वास्तविक फाइल इनपुट से फाइल हटाना अधिक जटिल है
+                        imgContainer.remove();
+                    });
+                    
+                    // मेन इमेज बटन
+                    const mainBtn = document.createElement('button');
+                    mainBtn.className = 'preview-main';
+                    mainBtn.innerHTML = 'Main Image';
+                    mainBtn.dataset.index = i;
+                    mainBtn.addEventListener('click', function() {
+                        // सभी बटन्स को रीसेट करें
+                        document.querySelectorAll('.preview-main').forEach(btn => {
+                            btn.style.backgroundColor = '#007bff';
+                        });
+                        
+                        // इस बटन को हाइलाइट करें
+                        mainBtn.style.backgroundColor = '#28a745';
+                        
+                        // मेन इमेज इनपुट अपडेट करें
+                        mainImageInput.value = i;
+                    });
+                    
+                    // एलिमेंट्स जोड़ें
+                    imgContainer.appendChild(img);
+                    imgContainer.appendChild(removeBtn);
+                    imgContainer.appendChild(mainBtn);
+                    
+                    // कंटेनर में जोड़ें
+                    previewContainer.appendChild(imgContainer);
+                    
+                    // पहली इमेज को मेन इमेज के रूप में सेट करें
+                    if (i === 0) {
+                        mainBtn.click();
+                    }
+                };
+                
+                reader.readAsDataURL(file);
+            }
+        }
+        
+        // फाइल अपलोड फंक्शन
+        function uploadFiles() {
+            const formData = new FormData();
+            
+            // फाइल्स जोड़ें
+            for (let i = 0; i < fileInput.files.length; i++) {
+                formData.append('images[]', fileInput.files[i]);
+            }
+            
+            // मेन इमेज इंडेक्स जोड़ें
+            formData.append('main_image', mainImageInput.value);
+            
+            // लोडिंग मैसेज
+            resultDiv.innerHTML = 'Uploading files...';
+            
+            // AJAX रिक्वेस्ट
+            fetch('upload-handler.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log('Upload response:', data);
+                
+                // रिजल्ट दिखाएं
+                let resultHTML = '<h3>' + (data.success ? 'Upload Successful' : 'Upload Failed') + '</h3>';
+                resultHTML += '<p>' + data.message + '</p>';
+                
+                if (data.files && data.files.length > 0) {
+                    resultHTML += '<h4>Uploaded Files:</h4><ul>';
+                    data.files.forEach(file => {
+                        resultHTML += '<li>' + file.original_name + ' → ' + file.saved_name + '</li>';
+                    });
+                    resultHTML += '</ul>';
+                }
+                
+                if (data.errors && data.errors.length > 0) {
+                    resultHTML += '<h4>Errors:</h4><ul>';
+                    data.errors.forEach(error => {
+                        resultHTML += '<li>' + error + '</li>';
+                    });
+                    resultHTML += '</ul>';
+                }
+                
+                resultDiv.innerHTML = resultHTML;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                resultDiv.innerHTML = '<h3>Upload Error</h3><p>' + error.message + '</p>';
+            });
+        }
+    </script>
+</body>
+</html> 
